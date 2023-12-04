@@ -1,0 +1,14 @@
+C:\hom4\nomer1\bin\Debug\net7.0\nomer1.exe
+C:\hom4\nomer1\bin\Debug\net7.0\nomer1.deps.json
+C:\hom4\nomer1\bin\Debug\net7.0\nomer1.runtimeconfig.json
+C:\hom4\nomer1\bin\Debug\net7.0\nomer1.dll
+C:\hom4\nomer1\bin\Debug\net7.0\nomer1.pdb
+C:\hom4\nomer1\obj\Debug\net7.0\nomer1.GeneratedMSBuildEditorConfig.editorconfig
+C:\hom4\nomer1\obj\Debug\net7.0\nomer1.AssemblyInfoInputs.cache
+C:\hom4\nomer1\obj\Debug\net7.0\nomer1.AssemblyInfo.cs
+C:\hom4\nomer1\obj\Debug\net7.0\nomer1.csproj.CoreCompileInputs.cache
+C:\hom4\nomer1\obj\Debug\net7.0\nomer1.dll
+C:\hom4\nomer1\obj\Debug\net7.0\refint\nomer1.dll
+C:\hom4\nomer1\obj\Debug\net7.0\nomer1.pdb
+C:\hom4\nomer1\obj\Debug\net7.0\nomer1.genruntimeconfig.cache
+C:\hom4\nomer1\obj\Debug\net7.0\ref\nomer1.dll
